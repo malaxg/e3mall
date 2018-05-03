@@ -19,5 +19,5 @@ public class EasyUIDataGridResult implements Serializable{
 	public void setRows(List rows) {
 		this.rows = rows;
 	}
-	
+
 }
