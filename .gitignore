@@ -53,5 +53,8 @@ gradle/
 gradlew
 gradlew.bat
 unused.txt
-/*/target
-
+/e3-manager-web/target/
+/e3-manager/e3-manager-service/target/
+/e3-manager/e3-manager-pojo/target/
+/e3-manager/e3-manager-interface/target/
+/e3-manager/e3-manager-dao/target/
