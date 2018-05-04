@@ -1,0 +1,10 @@
+# Created by .ignore support plugin (hsz.mobi)
+/.gitignore
+/e3-manager-web/.classpath
+/e3-manager-web/.project
+/e3-manager/e3-manager-dao/target/
+/e3-manager/e3-manager-service/target/
+/e3-manager-web/target/
+/e3-manager/e3-manager-pojo/target/
+/e3-manager/e3-manager-interface/target/
+
